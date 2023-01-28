@@ -30,11 +30,6 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
 }
-
-.list-disable {
-  gap: 5px;
-  list-style: none;
-}
 .my-row-reverse {
   flex-direction: row-reverse;
 }
